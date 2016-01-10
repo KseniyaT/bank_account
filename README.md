@@ -4,4 +4,4 @@ User opens up registration route, which consists of 2 “Steps”. On the first 
 
 __Instruction__
 
-Open app/views/registration/new.html in your brower.
+Open app/views/registration/new.html in your browser.
